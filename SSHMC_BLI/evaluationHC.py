@@ -1,6 +1,6 @@
 """
 This code belongs to Semi-Supervised Hierarchical Multi-label Classifier Based on Local Information
-	PGM_PyLib: https://github.com/jona2510/SSHMC-BLI
+	PGM_PyLib: https://github.com/jona2510/SSHMC-BLI/tree/master
 
 The PGM_PyLib is distributed under the GNU public license v3.0.
 
